@@ -1,0 +1,8 @@
+Fixed the spacing for each column 
+Removed duplicate rows and columns
+Fixed capitalization in presidents columns
+Removed inconsistent data
+Used a filter to clean up spelling and errors
+Fixed extra white space
+Changed salary format from currency to numbers
+Fixed dates
